@@ -18,4 +18,5 @@ int main()
         else cout << "28";
         break;
     }
+    return 0;
 }

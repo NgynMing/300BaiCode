@@ -10,6 +10,5 @@ int main()
     a = a % 2000;                
     d = a / 1000;
     cout << b << " " <<  c  <<" " << d;
-
     return 0;
 }
